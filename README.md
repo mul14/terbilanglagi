@@ -12,6 +12,6 @@ NPM package to covert numbers into words in Bahasa Indonesia
 ### Usage ###
 
 ```javascript
-terbilang = require('terbilanglagi');
+var terbilang = require('terbilanglagi');
 terbilang(135); // seratus tiga puluh lima
 ```
